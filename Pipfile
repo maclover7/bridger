@@ -8,6 +8,7 @@ jupyterlab = "*"
 pandas = "*"
 xlrd = "*"
 openpyxl = "*"
+geopandas = "*"
 
 [dev-packages]
 
